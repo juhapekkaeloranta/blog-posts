@@ -3,9 +3,17 @@
 
 [Software engineering lab](https://courses.helsinki.fi/en/tkt20007) is one of the final courses in the bachelor's programme in Computer Science in the University of Helsinki. Students are divided into 4-6 person teams and a real customer will be assigned to each team. The team will build a piece of software according to the specifications given by the customer. The implementation requires a vast amount of skills gathered from various courses on topics like [programming](https://courses.helsinki.fi/en/tkt10002), [databases](https://courses.helsinki.fi/en/tkt10004), [web development](https://courses.helsinki.fi/en/tkt21009/) and [software engineering methods](https://courses.helsinki.fi/en/tkt20006). However the learning goals of this course are quite different from any of these. This is because coding for a customer with a team is very different from personal projects or programming course exercises.
 
-When you're building a personal project, you're the one who's creating the requirements and implementing them. When you're building a project for a customer, then it's he or she who's creating the requirements. This means that you need to communicate in order to know what to build. And when you got a whole team doing the implementation, you need to coordinate and communicate with the team to know who's building what.
+When you're building a personal project, you're the one who's creating the requirements and implementing them. So its simple like this:
 
-[image]
+<p align="center">
+  <img src="solo-code.JPG" alt="Drawing" width="75%"/>
+</p>
+
+When you're building a project for a customer, then it's he or she who's creating the requirements. This means that you need to communicate in order to know what to build. And when you got a whole team doing the implementation, you need to coordinate and communicate with the team to know who's building what. That looks more like this:
+
+<p align="center">
+  <img src="team-code.JPG" alt="Drawing" width="75%"/>
+</p>
 
 The students should already have the technical skills for creating software but communication and team work is not practiced much in the theoretically and technically focused programme. Communication is challenging both with the customer and within the team. The communication overhead seems amaze the students over and over again. The main learning goal of Software engineering lab may be reduced to one word - **communication**.
 
