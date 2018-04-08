@@ -25,7 +25,7 @@ The students should already have the technical skills for creating software but 
 
 Software used to be build with the waterfall method. This can be seen as a two step process: 1) collect requirements from the customer 2) implement the software. This has proven to be a difficult method. Agile methodologies have gained popularity and they seem to be the prevalent way of building software today. In Software engineering lab the students are also required to use agile methodologies, namely Scrum.
 
-Why do we enforce a specific framework? When we analyse the events and artefacts of Scrum we notice that they are actually methods communication. And in the two week sprints the students get to practice them efficiently in a iterative fashion. So by using Scrum the team will a lot of communication.
+Why do we enforce a specific framework? When we analyse the events and artefacts of Scrum we notice that they are actually methods communication. And in the two week sprints the students get to practice them efficiently in a iterative fashion. So by using Scrum the teams will practice a lot of communication.
 
 | Scrum item |Communication? |
 |:-----------|:---------------|
