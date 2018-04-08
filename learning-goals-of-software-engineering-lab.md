@@ -49,7 +49,7 @@ By doing this analysis we are starting to see a connection:
 4. Transparency enables inspection of progress, workflow, practices etc.
 5. Inspection enables adaptation. This is crucial for students or any teams to develop their skills and performance. 
 
-[image]
+![steps-from-scrum-to-improvement](scrum-to-improvement.png)
 
 This brings us to another learning goal of the course - **continuous improvement**. The ability to make observations, analyse them and make suitable adaptations to improve is highly valuable. This is nicely embedded into the values and iterative methods of Scrum.
 
