@@ -6,7 +6,7 @@
 When you're building a personal project, you're the one who's creating the requirements and implementing them. So its simple like this:
 
 <p align="center">
-  <img src="solo-code.JPG" alt="Drawing" width="75%"/>
+  <img src="solo-code.JPG" alt="Drawing" width="50%"/>
 </p>
 
 When you're building a project for a customer, then it's he or she who's creating the requirements. This means that you need to communicate in order to know what to build. And when you got a whole team doing the implementation, you need to coordinate and communicate with the team to know who's building what. That looks more like this:
