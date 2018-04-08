@@ -19,7 +19,7 @@ When you're building a project for a customer, then it's he or she who's creatin
   <img src="team-code.JPG" alt="Drawing" width="75%"/>
 </p>
 
-The students should already have the technical skills for creating software but communication and team work is not practiced much in the theoretically and technically focused programme. Communication is challenging both with the customer and within the team. The communication overhead seems amaze the students over and over again. The main learning goal of Software engineering lab may be reduced to one word - **communication**.
+The students should already have the technical skills for creating software but communication and team work are not practiced much in the theoretically and technically focused programme. Communication is challenging both with the customer and within the team. The communication overhead seems amaze the students over and over again. The main learning goal of Software engineering lab may be reduced to one word - **communication**.
 
 ### Teaching communication with scrum
 
