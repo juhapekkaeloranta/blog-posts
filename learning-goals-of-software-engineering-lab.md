@@ -1,7 +1,11 @@
 # Learning goals of 'Software engineering lab'
 **_..and how Scrum helps us achieve them?_**
 
+### Intro
+
 [Software engineering lab](https://courses.helsinki.fi/en/tkt20007) is one of the final courses in the bachelor's programme in Computer Science in the University of Helsinki. Students are divided into 4-6 person teams and a real customer will be assigned to each team. The team will build a piece of software according to the specifications given by the customer. The implementation requires a vast amount of skills gathered from various courses on topics like [programming](https://courses.helsinki.fi/en/tkt10002), [databases](https://courses.helsinki.fi/en/tkt10004), [web development](https://courses.helsinki.fi/en/tkt21009/) and [software engineering methods](https://courses.helsinki.fi/en/tkt20006). However the learning goals of this course are quite different from any of these. This is because coding for a customer with a team is very different from personal projects or programming course exercises.
+
+### Personal project vs team work
 
 When you're building a personal project, you're the one who's creating the requirements and implementing them. So its simple like this:
 
@@ -17,9 +21,11 @@ When you're building a project for a customer, then it's he or she who's creatin
 
 The students should already have the technical skills for creating software but communication and team work is not practiced much in the theoretically and technically focused programme. Communication is challenging both with the customer and within the team. The communication overhead seems amaze the students over and over again. The main learning goal of Software engineering lab may be reduced to one word - **communication**.
 
+### Teaching communication with scrum
+
 Software used to be build with the waterfall method. This can be seen as a two step process: 1) collect requirements from the customer 2) implement the software. This has proven to be a difficult method. Agile methodologies have gained popularity and they seem to be the prevalent way of building software today. In Software engineering lab the students are also required to use agile methodologies, namely Scrum.
 
-Why do we enforce a specific framework? When we analyse the events and artefacts of Scrum (see Table 1) we notice that they are actually methods communication. And in the two week sprints the students get to practice them efficiently in a iterative fashion.
+Why do we enforce a specific framework? When we analyse the events and artefacts of Scrum we notice that they are actually methods communication. And in the two week sprints the students get to practice them efficiently in a iterative fashion.
 
 | Scrum item |Communication? |
 |:-----------|:---------------|
@@ -29,8 +35,6 @@ Why do we enforce a specific framework? When we analyse the events and artefacts
 | Retrospective | Disclose all the successes and obstacles of the last sprint to enable improving on the next one |
 | Product backlog | Written communication of requirements and project progress between the customer and the team. |
 | Sprint backlog | Written communication of sprint progress and "who's doing what". |
-
-<p align="center">Table 1</p>
 
 It's useful to analyse these items also from the perspective of the _Three Pillars of Empiricism_ in Scrum: 1) Transparency 2) Inspection and 3) Adaption. Inspection and adaptation are so closely linked that we will analyse them together.
 
@@ -48,6 +52,8 @@ It's useful to analyse these items also from the perspective of the _Three Pilla
   * Written counterpart of sprint planning & review - same aspect apply.
 * Sprint backlog
   * Written counterpart of daily scrum - same aspect apply.
+
+### Connecting the dots
 
 By doing this analysis we are starting to see a connection:
 
